@@ -1,8 +1,6 @@
 # Hi, I'm Kanit 👋
 
-I'm an incoming first-year Computer Engineering student at Chulalongkorn University, passionate about building clean, efficient systems and learning how things work at every level — from low-level logic to server-side development.
-
-I'm currently focused on becoming a skilled **Back-End Developer**, starting with core programming, Git, and Node.js as I expand into full systems development.
+I'm an incoming first-year Computer Engineering student at Chulalongkorn University, passionate about solving and make things work.
 
 ---
 
