@@ -6,34 +6,18 @@ I'm currently focused on becoming a skilled **Back-End Developer**, starting wit
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-I'm a thinker who learns fast, builds with purpose, and sees creativity as a key part of engineering.  
-Whether I'm writing code or solving design problems, I approach everything with curiosity, clarity, and a drive to improve.
-
----
-
-## 🛠️ Technologies I'm Working With
-
-- **Languages**: C, C++, Python  
-- **Back-End**: Node.js (Learning and building with it)  
-- **Dev Tools**: Git, VS Code, Postman (early stage)
+I’m passionate about understanding how things work — whether through code, physics, or storytelling.  
+Curiosity and creativity drive me to explore both technical challenges and imaginative worlds.
 
 ---
 
-## 🔍 What You'll Find Here
+## I'm Working With
 
-- 🎯 Projects that show my growth as a back-end developer  
-- 🧠 Clean, well-commented code and structured logic  
-- 🧪 Experiments and practice repositories from my learning journey  
-- 🛠️ Tools and scripts that solve real-world problems  
-
----
-
-## 🌱 Beyond Code
-
-Outside of programming, I'm deeply curious and love exploring complex systems — whether through physics, creative writing, or Dungeons & Dragons worldbuilding.  
-I believe imagination and logic go hand-in-hand — great engineers not only write code, but also craft stories and understand the deeper laws that shape our universe and the worlds we create.
+- **Tech:** C, C++, Python, Node.js, Git  
+- **Physics:** Exploring fundamental concepts and problem-solving  
+- **Dungeons & Dragons:** Worldbuilding, storytelling, and game design
 
 ---
 
