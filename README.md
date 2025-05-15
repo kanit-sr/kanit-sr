@@ -17,7 +17,7 @@ Curiosity and creativity drive me to explore both technical challenges and imagi
 
 - **Tech:** C, C++, Python, Node.js, Git  
 - **Physics:** Exploring fundamental concepts and problem-solving  
-- **Dungeons & Dragons:** Worldbuilding, storytelling, and game design
+- **Writing:** Worldbuilding, storytelling, game design, and D&D. 
 
 ---
 
