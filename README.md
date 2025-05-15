@@ -1,4 +1,4 @@
-# Hi, I'm Hunter 👋
+# Hi, I'm Kanit 👋
 
 I'm an incoming first-year Computer Engineering student at Chulalongkorn University, passionate about building clean, efficient systems and learning how things work at every level — from low-level logic to server-side development.
 
