@@ -22,7 +22,6 @@ Curiosity and creativity drive me to explore both technical challenges and imagi
 - **Tech:** C, C++, Python, Node.js, Git  
 - **Physics:** Exploring fundamental concepts and problem-solving  
 - **Writing:** Worldbuilding, storytelling, game design, and D&D.
-- **Gaming** Valorant analyzer
 
 
 
