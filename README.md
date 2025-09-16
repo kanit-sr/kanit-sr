@@ -19,7 +19,7 @@ Curiosity and creativity drive me to explore both technical challenges and imagi
 
 ## I'm Working With
 
-- **Tech:** C, C++, Python, Node.js, Git  
+- **Tech:** C, C++, Python, Node.js, Git , Mongodb , Basic SQL , Javascript , Typescript
 - **Physics:** Exploring fundamental concepts and problem-solving  
 - **Writing:** Worldbuilding, storytelling, game design, and D&D.
 
